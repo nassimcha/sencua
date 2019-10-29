@@ -55,7 +55,6 @@ setup(
         'Products.ATExtensions',
         'Products.CMFEditions',
         'Products.DataGridField',
-        # 'Products.TinyMCE',
         'Products.TextIndexNG3',
         'collective.monkeypatcher',
         'collective.js.jqueryui',
@@ -75,7 +74,6 @@ setup(
         'senaite.core.listing',
         'senaite.impress',
         'archetypes.referencebrowserwidget',
-        'plonetheme.sunburst',
         # Python 2/3 compatibility library: https://six.readthedocs.io/
         'six',
     ],
